@@ -37,7 +37,7 @@
 
 <div align="center">
 
-![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasecode&show_icons=true&theme=tokyonight&hide_border=true)
+[Eli's GitHub stats]
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lasecode&theme=tokyonight&hide_border=true)
 
